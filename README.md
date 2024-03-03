@@ -2,7 +2,7 @@
 
 # Jupyter Tasks
 
-This repository contains a collection of Jupyter notebooks for various small tasks. Each task is contained within a separate directory, which includes a 'data' file which contain 'CSV' format and a 'Jupyter' 'notebook' file for the tasks.
+This repository contains a collection of Jupyter notebooks for various small tasks. Each task is contained within a separate directory, which includes a 'data' file in 'CSV' format and a Jupyter notebook file for the task.
 
 ## Usage
 
