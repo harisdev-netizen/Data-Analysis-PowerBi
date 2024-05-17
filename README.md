@@ -1,6 +1,6 @@
 # Data-Analysiss-Nootbooks
 
-## Jupyter & PowerBi Tasks
+## Jupyter and PowerBi Tasks
 
 This repository contains a collection of Jupyter notebooks and PowerBi lab tasks for various small tasks. Each task is contained within a separate directory, which includes a 'data' file in 'CSV' format and a Jupyter notebook file for the task.
 
