@@ -1,4 +1,4 @@
-# Data-Analysiss-Nootbooks
+# Data-Analysis-Nootbooks
 
 ## Jupyter and PowerBi Tasks
 
